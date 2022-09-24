@@ -1,2 +1,5 @@
-# Foundations-of-AI
-Foundations of AI
+# Foundations of AI
+
+* [ ] Machine Learning
+* [ ] Deep Learning
+
