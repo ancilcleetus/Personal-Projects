@@ -1,5 +1,5 @@
-# Foundations of AI
+# Personal Projects
 
-* [ ] Machine Learning
-* [ ] Deep Learning
+* [ ] 01 - 
+* [ ] 02 - 
 
