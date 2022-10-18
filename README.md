@@ -1,7 +1,7 @@
 # Personal Projects
 
-|	No  | Project	 | 	Language/Framework	 | Description | Done | 
-|	--- | -------	 |  ------------------   | ----------- | ---- | 
-|	001 | xxxxxxx	 |  xxxxxxxxxxxxxxxxxx   | xxxxxxxxxxx | ✔️ ⬜ | 
+|	No  | Project	 | 	Language/Framework	 | Libraries/Dependencies | Description | Done | 
+|	--- | -------	 |  ------------------   | ---------------------- | ----------- | ---- | 
+|	001 | xxxxxxx	 |  xxxxxxxxxxxxxxxxxx   | xxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxx | ✔️ ⬜ | 
 
 
