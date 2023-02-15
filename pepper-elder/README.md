@@ -1,4 +1,4 @@
-# Text Editor from Scratch in C
+# Pepper Elder - Text Editor from scratch in C
 
 ## Setup
 
