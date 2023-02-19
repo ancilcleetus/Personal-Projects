@@ -8,7 +8,7 @@ For example, a neural net might look like
 
 inputs -> Linear -> Tanh -> Linear -> output
 """
-from typing import Dict
+from typing import Dict, Callable
 
 import numpy as np
 
@@ -65,3 +65,17 @@ class Linear(Layer):
         self.grads["b"] = np.sum(grad, axis=0)
         self.grads["w"] = self.inputs.T @ grad
         return grad @ self.params["w"].T
+    
+
+F = Callable[[Tensor], Tensor]
+
+class Activation(Layer):
+    """
+    An activation layer just applies a function
+    elementwise to its inputs
+    """
+    def __init__(self, f: F, f_prime: F) -> None:
+        super().__init__()
+        self.f = f
+        self.f_prime = f_prime
+
