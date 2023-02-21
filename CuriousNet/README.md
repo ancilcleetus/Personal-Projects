@@ -1,6 +1,6 @@
 # CuriousNet - Deep Learning Library from scratch
 
-## Here's the plan for development:
+## Status of development:
 
 1. Tensors          ✔️
 2. Loss Functions   ✔️
