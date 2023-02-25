@@ -8,7 +8,7 @@
 4. Neural Nets      ✔️
 5. Optimizers       ✔️
 6. Data             ✔️
-7. Training         ⬜
+7. Training         ✔️
 8. Examples to demonstrate the library in action!
 
 
