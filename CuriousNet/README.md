@@ -14,5 +14,6 @@
     
     
         ![XOR Predictions](https://github.com/ancilcleetus/Personal-Projects/blob/main/CuriousNet/misc-data/xor-output.png)
+    2. Example 2    ⬜
 
 
