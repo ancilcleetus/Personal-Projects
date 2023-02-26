@@ -13,6 +13,6 @@
     1. XOR Exmaple  ✔️
     
     
-    ![XOR Predictions](https://github.com/ancilcleetus/Personal-Projects/blob/main/CuriousNet/misc-data/xor-output.png)
+        ![XOR Predictions](https://github.com/ancilcleetus/Personal-Projects/blob/main/CuriousNet/misc-data/xor-output.png)
 
 
