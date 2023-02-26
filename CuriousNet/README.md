@@ -10,7 +10,9 @@
 6. Data             ✔️
 7. Training         ✔️
 8. Examples to demonstrate the library in action!
-    1. XOR Exmaple 
+    1. XOR Exmaple
+    
+    
     ![XOR Predictions](https://github.com/ancilcleetus/Personal-Projects/blob/main/CuriousNet/misc-data/xor-output.png)
 
 
