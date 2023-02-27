@@ -35,4 +35,4 @@ train(net, inputs, targets)
 
 for x, y in zip(inputs, targets):
     predicted = net.forward(x)
-    print(f"x = {x}, predicted = {predicted}, y = {y}")
+    print(f"input = {x}\tpredicted_output = {predicted}\tactual_output = {y}")

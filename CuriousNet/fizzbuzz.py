@@ -63,4 +63,4 @@ for x in range(1, 101):
     predicted_idx = np.argmax(predicted)
     actual_idx = np.argmax(fizz_buzz_encode(x))
     labels = [str(x), "fizz", "buzz", "fizzbuzz"]
-    print(x, labels[predicted_idx], labels[actual_idx])
+    print(f"input = {x}\tpredicted_output = {labels[predicted_idx]}\tactual_output = {labels[actual_idx]}")
