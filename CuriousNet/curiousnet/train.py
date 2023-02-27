@@ -3,6 +3,7 @@
 """
 A function that can train a Neural Net
 """
+
 from curiousnet.tensor import Tensor
 from curiousnet.nn import NeuralNet
 from curiousnet.loss import Loss, MSE

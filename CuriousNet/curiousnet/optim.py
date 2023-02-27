@@ -5,6 +5,7 @@ We use an optimizer to adjust the parameters
 of our network based on the gradients computed
 during backpropagation
 """
+
 from curiousnet.nn import NeuralNet
 
 class Optimizer:

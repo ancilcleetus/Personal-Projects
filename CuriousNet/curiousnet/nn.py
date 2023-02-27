@@ -5,6 +5,7 @@ A NeuralNet is just a collection of layers.
 It behaves a lot like a layer itself, although
 we are not going to make it one.
 """
+
 from typing import Sequence, Iterator, Tuple
 
 from curiousnet.tensor import Tensor

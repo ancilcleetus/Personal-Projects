@@ -4,6 +4,7 @@
 The canonical example of a function that can't be
 learned with a simple linear model is XOR
 """
+
 import numpy as np
 
 from curiousnet.train import train

@@ -8,6 +8,7 @@ For example, a neural net might look like
 
 inputs -> Linear -> Tanh -> Linear -> output
 """
+
 from typing import Dict, Callable
 
 import numpy as np

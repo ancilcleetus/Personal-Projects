@@ -4,6 +4,7 @@
 A Loss Function measures how good our predictions are.
 We can use it to adjust the parameters of our neural net.
 """
+
 import numpy as np
 
 from curiousnet.tensor import Tensor

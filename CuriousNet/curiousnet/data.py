@@ -4,6 +4,7 @@
 We will feed inputs into our network in batches.
 So here are some tools for iterating over data in batches.
 """
+
 from typing import Iterator, NamedTuple
 
 import numpy as np
