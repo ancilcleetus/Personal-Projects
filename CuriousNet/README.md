@@ -14,6 +14,9 @@
     
     
         ![XOR Predictions](https://github.com/ancilcleetus/Personal-Projects/blob/main/CuriousNet/misc-data/xor-output.png)
-    2. FizzBuzz Example ⬜
+    2. FizzBuzz Example ✔️
+    
+    
+        ![FizzBuzz Predictions](https://github.com/ancilcleetus/Personal-Projects/blob/main/CuriousNet/misc-data/fizzbuzz-output.png)
 
 
