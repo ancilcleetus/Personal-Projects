@@ -25,13 +25,13 @@ class Layer:
         """
         Produce the outputs corresponding to these inputs
         """
-        raise NotImplementedError
+        raise NotImplementedError("Subclass must implement abstract method")
     
     def backward(self, grad: Tensor) -> Tensor:
         """
         Backpropagate this gradient through the layer
         """
-        raise NotImplementedError
+        raise NotImplementedError("Subclass must implement abstract method")
 
 
 class Linear(Layer):
