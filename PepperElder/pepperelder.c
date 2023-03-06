@@ -30,9 +30,11 @@ void enableRawMode() {
     // Create a new termios struct with the original attributes.
     struct termios raw = orig_termios;
 
-    // Turn off the ECHO flag in the raw struct. ECHO causes characters typed on the terminal to be echoed
+    // Turn off the ECHO flag & ICANON flag in the raw struct.
+    // ECHO causes characters typed on the terminal to be echoed
     // (printed) to the terminal, which is not desirable in raw mode.
-    raw.c_lflag &= ~(ECHO);
+    // ICANON flag allows us to turn off canonical mode
+    raw.c_lflag &= ~(ECHO | ICANON);
 
     // Set the terminal attributes with the new settings in the raw struct.
     tcsetattr(STDIN_FILENO, TCSAFLUSH, &raw);
