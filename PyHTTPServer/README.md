@@ -8,7 +8,7 @@ that is capable of serving multiple clients.
 
 1. Bind to a Port         ![100%](https://progress-bar.dev/100)
 2. Respond with 200       ![100%](https://progress-bar.dev/100)
-3. Respond with 404       ⬜
+3. Respond with 404       ![100%](https://progress-bar.dev/100)
 4. Respond with Content   ⬜
 5. Parse Headers          ⬜
 6. Concurrent Connections ⬜
@@ -60,3 +60,16 @@ that is capable of serving multiple clients.
         3. Check output
             - ![PyHTTPServer](https://github.com/ancilcleetus/Personal-Projects/blob/main/PyHTTPServer/misc-data/Functionality-02-Respond-with-200-01.png)
             - ![Client](https://github.com/ancilcleetus/Personal-Projects/blob/main/PyHTTPServer/misc-data/Functionality-02-Respond-with-200-02.png)
+3. Respond with 404
+    - Task:
+        1. Extract the path from the HTTP request
+        2. If the path is "/", respond with a 200 OK response
+        3. Otherwise, respond with a 404 Not Found response
+    - Test:
+        1. Run `python3 app/main.py` in one terminal session
+        2. Run `curl -v -X GET http://localhost:4221/` in 2nd terminal session
+        3. Run `curl -v -X GET http://localhost:4221/index.html` in 3rd terminal session
+        4. Check output
+            - ![PyHTTPServer](https://github.com/ancilcleetus/Personal-Projects/blob/main/PyHTTPServer/misc-data/Functionality-03-Respond-with-404-01.png)
+            - ![Client1](https://github.com/ancilcleetus/Personal-Projects/blob/main/PyHTTPServer/misc-data/Functionality-03-Respond-with-404-02.png)
+            - ![Client2](https://github.com/ancilcleetus/Personal-Projects/blob/main/PyHTTPServer/misc-data/Functionality-03-Respond-with-404-03.png)
