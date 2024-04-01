@@ -6,7 +6,7 @@ that is capable of serving multiple clients.
 
 ## Status of development:
 
-1. Bind to a Port         ![100%](https://progress-bar.dev/50)
+1. Bind to a Port         ![100%](https://progress-bar.dev/100)
 2. Respond with 200       ⬜
 3. Respond with 404       ⬜
 4. Respond with Content   ⬜
