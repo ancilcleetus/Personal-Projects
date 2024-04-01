@@ -36,6 +36,11 @@ def main():
             if path == "/":
                 # Respond with HTTP/1.1 200 OK
                 response = "HTTP/1.1 200 OK\r\n\r\n"  # Response contains Status Line, Empty Response Headers, Empty Response Body
+            elif path.startswith("/echo/"):
+                # Get the string after "/echo/"
+                echo_string = path.split("/echo/")[-1]
+                # Response contains Status Line, Non-empty Response Headers, echo_string Response Body
+                response = f"HTTP/1.1 200 OK\r\nContent-Type: text/plain\r\nContent-Length: {len(echo_string)}\r\n\r\n{echo_string}\r\n"
             else:
                 # Respond with HTTP/1.1 404 Not Found
                 response = "HTTP/1.1 404 Not Found\r\n\r\n"  # Response contains Status Line, Empty Response Headers, Empty Response Body
