@@ -24,6 +24,10 @@
 
 ## 3. DL (Deep Learning) Projects
 
+| No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
+| -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
+| 001 | [Customer Churn Prediction using ANN](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_01_Customer_Churn_Prediction_using_ANN.ipynb) | NA | Customer Churn Prediction on [Kaggle Customer Credit Card Dataset](https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction) | Python | TensorFlow, Keras, NumPy, Pandas, Scikit-Learn | NA | Google Colab, Git, Visual Studio Code | ✅ | Version 0.1 Completed | 
+
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
 ## 2. ML (Machine Learning) Projects
