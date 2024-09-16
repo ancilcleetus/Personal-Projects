@@ -2,19 +2,19 @@
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 7. AI Agent Projects
+## 8. AI Agent Projects
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 6. Generative AI Projects
+## 7. Generative AI (GenAI) Projects
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 5. NLP (Natural Language Processing) Projects
+## 6. Natural Language Processing (NLP) Projects
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 4. CV (Computer Vision) Projects
+## 5. Computer Vision (CV) Projects
 
 | No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
@@ -22,7 +22,7 @@
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 3. DL (Deep Learning) Projects
+## 4. Deep Learning (DL) Projects
 
 | No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
@@ -30,10 +30,14 @@
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 2. ML (Machine Learning) Projects
+## 3. Machine Learning (ML) Projects
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 1. Python Projects
+## 2. Python Projects
+
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
+## 1. Bash Projects
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
