@@ -26,8 +26,8 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
-| 002 | [Handwritten Digit Classification using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_02_Handwritten_Digit_Classification_using_ANN.ipynb) | NA | Handwritten Digit Classification on [MNIST Dataset](https://yann.lecun.com/exdb/mnist/) | Python | TensorFlow, Keras, Scikit-Learn, Matplotlib | NA | Google Colab, Git, Visual Studio Code | ✅ | Version 0.1 Completed |
-| 001 | [Customer Churn Prediction using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_01_Customer_Churn_Prediction_using_ANN.ipynb) | NA | Customer Churn Prediction on [Kaggle Customer Credit Card Dataset](https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction) | Python | TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib | NA | Google Colab, Git, Visual Studio Code | ✅ | Version 0.1 Completed |
+| 002 | [Handwritten Digit Classification using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_02_Handwritten_Digit_Classification_using_ANN.ipynb) | NA | Handwritten Digit Classification on [MNIST Dataset](https://yann.lecun.com/exdb/mnist/) | Python | TensorFlow, Keras, Scikit-Learn, Matplotlib | NA | Google Colab, Git | ✅ | Version 0.1 Completed |
+| 001 | [Customer Churn Prediction using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_01_Customer_Churn_Prediction_using_ANN.ipynb) | NA | Customer Churn Prediction on [Kaggle Customer Credit Card Dataset](https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction) | Python | TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib | NA | Google Colab, Git | ✅ | Version 0.1 Completed |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -35,7 +35,7 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
-| 001 | [Chicago Cab Fare Predictor using Linear Regression](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/02-Machine-Learning-Projects/ML_Project_01_Chicago_Cab_Fare_Predictor/ML_Project_01_Chicago_Cab_Fare_Predictor.ipynb) | NA | Cab Fare Prediction on [City of Chicago Taxi Trips dataset](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) | Python | Keras, NumPy, Pandas, Plotly, Seaborn | NA | Google Colab, Git, Visual Studio Code | ✅ | Version 0.1 Completed |
+| 001 | [Chicago Cab Fare Predictor using Linear Regression](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/02-Machine-Learning-Projects/ML_Project_01_Chicago_Cab_Fare_Predictor/ML_Project_01_Chicago_Cab_Fare_Predictor.ipynb) | NA | Cab Fare Prediction on [City of Chicago Taxi Trips dataset](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) | Python | Keras, NumPy, Pandas, Plotly, Seaborn | NA | Google Colab, Git | ✅ | Version 0.1 Completed |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
