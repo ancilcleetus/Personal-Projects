@@ -8,9 +8,17 @@
 
 ## 8. Generative AI (GenAI) Projects
 
+| No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
+| -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
+| 001 | [FirstWordsLLM GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Generative-AI/02-GenAI-Projects/GenAI_Project_01_FirstWordsLLM) | [FirstWordsLLM App](https://huggingface.co/spaces/ancilcleetus/GenAI_Project_01_FirstWordsLLM) | LLM built from scratch | Python | To be added | To be added | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
 ## 7. MLOps Projects
+
+| No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
+| -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
+| 001 | [HeadlineHound GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_01_HeadlineHound) | [HeadlineHound App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_HeadlineHound) | End-to-End LLM News Classifier | Python | To be added | To be added | Google Colab, Git | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
