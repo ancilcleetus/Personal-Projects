@@ -22,7 +22,8 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries & Dependencies | Databases & Cloud Hosting | Tools & Platforms | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | ------------------------ | ------------------------- | ----------------- | ---- | :------- | 
-| 001 | [HeadlineHound GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_01_HeadlineHound) | [HeadlineHound App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_HeadlineHound) | End-to-End LLM-Powered News Headline Classifier | Python | To be added | To be added | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+| 002 | [HeadlineHound GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_02_HeadlineHound) | [HeadlineHound App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_02_HeadlineHound) | End-to-End Production Ready LLM-Powered News Headline Classifier | Python | To be added | To be added | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+| 001 | [DanishGridInsight GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_01_DanishGridInsight) | [DanishGridInsight App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_DanishGridInsight) | End-to-End Production Ready Energy Consumption Forecast System for Denmark | Python | To be added | To be added | Google Colab, Git | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
