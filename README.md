@@ -14,6 +14,7 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
+| 002 | [LLM Twin GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Generative-AI/02-GenAI-Projects/GenAI_Project_02_LLMTwin) | [LLM Twin App](https://huggingface.co/spaces/ancilcleetus/GenAI_Project_02_LLMTwin) | End-to-End Production-Ready LLM & RAG System (LLM Twin of Yourself) using LLMOps Best Practices | Python | TBD | TBD | TBD | Google Colab, Git | ⬜ | Version 0.1 In Progress |
 | 001 | [FirstWordsLLM GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Generative-AI/02-GenAI-Projects/GenAI_Project_01_FirstWordsLLM) | [FirstWordsLLM App](https://huggingface.co/spaces/ancilcleetus/GenAI_Project_01_FirstWordsLLM) | LLM built from scratch | Python | TBD | TBD | TBD | Google Colab, Git | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
@@ -22,8 +23,8 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
-| 002 | [HeadlineHound GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_02_HeadlineHound) | [HeadlineHound App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_02_HeadlineHound) | End-to-End Production Ready LLM-Powered News Headline Classifier | Python | TBD | TBD | TBD | Google Colab, Git | ⬜ | Version 0.1 In Progress |
-| 001 | [DanishGridInsight GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_01_DanishGridInsight) | [DanishGridInsight App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_DanishGridInsight) | End-to-End Production Ready Energy Consumption Forecast System for Denmark | Python | TBD | Hopsworks Feature Store, Weights & Biases, Poetry, Apache Airflow, Great Expectations, GitHub Actions, Gradio, FastAPI, Docker | GCP, Hugging Face | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+| 002 | [HeadlineHound GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_02_HeadlineHound) | [HeadlineHound App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_02_HeadlineHound) | End-to-End Production-Ready LLM-Powered News Headline Classifier | Python | TBD | TBD | TBD | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+| 001 | [DanishGridInsight GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/MLOps/03-MLOps-Projects/MLOps_Project_01_DanishGridInsight) | [DanishGridInsight App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_DanishGridInsight) | End-to-End Production-Ready ML System for forecasting Hourly Energy Consumption Levels across Denmark | Python | TBD | Hopsworks Feature Store, Weights & Biases, Poetry, Apache Airflow, Great Expectations, GitHub Actions, Gradio, FastAPI, Docker | GCP, Hugging Face | Google Colab, Git | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
