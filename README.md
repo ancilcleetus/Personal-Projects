@@ -2,11 +2,19 @@
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 10. Reinforcement Learning Projects
+## 11. Reinforcement Learning Projects
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 9. AI Agent Projects
+## 10. AI Agent Projects
+
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
+## 9. Multimodal AI Projects
+
+| No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
+| -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
+| 001 | [NeuraVisionLLM GitHub Repo](https://github.com/ancilcleetus/Multimodal_AI_Project_01_NeuraVisionLLM) | [NeuraVisionLLM App](https://huggingface.co/spaces/ancilcleetus/NeuraVisionLLM) | Multimodal Vision LLM built from Scratch | Python | TBD | TBD | Hugging Face | Google Colab, Git | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
