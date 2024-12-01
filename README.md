@@ -14,7 +14,7 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
-| 001 | [NeuraVisionLLM GitHub Repo](https://github.com/ancilcleetus/Multimodal_AI_Project_01_NeuraVisionLLM) | [NeuraVisionLLM App](https://huggingface.co/spaces/ancilcleetus/NeuraVisionLLM) | Multimodal Vision LLM built from Scratch | Python | PyTorch, Transformers, Tokenizers, Safetensors, NumPy | TBD | Hugging Face | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+| 001 | [NeuraVisionLLM GitHub Repo](https://github.com/ancilcleetus/Multimodal_AI_Project_01_NeuraVisionLLM) | [NeuraVisionLLM App](https://huggingface.co/spaces/ancilcleetus/NeuraVisionLLM) | Multimodal Vision LLM built from Scratch | Python | PyTorch, Transformers, Tokenizers, Safetensors, NumPy | TBD | Hugging Face | Google Colab, Git, Visual Studio Code | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -22,8 +22,8 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
-| 002 | [LLM Twin GitHub Repo](https://github.com/ancilcleetus/GenAI_Project_02_LLMTwin) | [LLM Twin App](https://huggingface.co/spaces/ancilcleetus/GenAI_Project_02_LLMTwin) | End-to-End Production-Ready LLM & RAG System (LLM Twin of Yourself) using LLMOps Best Practices | Python | TBD | TBD | TBD | Google Colab, Git | ⬜ | Version 0.1 In Progress |
-| 001 | [FirstWordsLLM GitHub Repo](https://github.com/ancilcleetus/GenAI_Project_01_FirstWordsLLM) | [FirstWordsLLM App](https://huggingface.co/spaces/ancilcleetus/GenAI_Project_01_FirstWordsLLM) | LLM built from scratch | Python | TBD | TBD | TBD | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+| 002 | [LLM Twin GitHub Repo](https://github.com/ancilcleetus/GenAI_Project_02_LLMTwin) | [LLM Twin App](https://huggingface.co/spaces/ancilcleetus/GenAI_Project_02_LLMTwin) | End-to-End Production-Ready LLM & RAG System (LLM Twin of Yourself) using LLMOps Best Practices | Python | TBD | TBD | TBD | Google Colab, Git, Visual Studio Code | ⬜ | Version 0.1 In Progress |
+| 001 | [FirstWordsLLM GitHub Repo](https://github.com/ancilcleetus/GenAI_Project_01_FirstWordsLLM) | [FirstWordsLLM App](https://huggingface.co/spaces/ancilcleetus/GenAI_Project_01_FirstWordsLLM) | LLM built from scratch | Python | TBD | TBD | TBD | Google Colab, Git, Visual Studio Code | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -31,8 +31,8 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
-| 002 | [HeadlineHound GitHub Repo](https://github.com/ancilcleetus/MLOps_Project_02_HeadlineHound) | [HeadlineHound App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_02_HeadlineHound) | End-to-End Production-Ready LLM-Powered News Headline Classifier | Python | TBD | TBD | TBD | Google Colab, Git | ⬜ | Version 0.1 In Progress |
-| 001 | [DanishGridInsight GitHub Repo](https://github.com/ancilcleetus/MLOps_Project_01_DanishGridInsight) | [DanishGridInsight App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_DanishGridInsight) | End-to-End Production-Ready ML System for forecasting Hourly Energy Consumption Levels across Denmark using MLOps Best Practices | Python | TBD | Hopsworks Feature Store, Weights & Biases, Poetry, Apache Airflow, Great Expectations, GitHub Actions, Taipy, Gradio, FastAPI, Docker | GCP, Hugging Face | Google Colab, Git | ⬜ | Version 0.1 In Progress |
+| 002 | [HeadlineHound GitHub Repo](https://github.com/ancilcleetus/MLOps_Project_02_HeadlineHound) | [HeadlineHound App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_02_HeadlineHound) | End-to-End Production-Ready LLM-Powered News Headline Classifier | Python | TBD | TBD | TBD | Google Colab, Git, Visual Studio Code | ⬜ | Version 0.1 In Progress |
+| 001 | [DanishGridInsight GitHub Repo](https://github.com/ancilcleetus/MLOps_Project_01_DanishGridInsight) | [DanishGridInsight App](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_DanishGridInsight) | End-to-End Production-Ready ML System for forecasting Hourly Energy Consumption Levels across Denmark using MLOps Best Practices | Python | TBD | Hopsworks Feature Store, Weights & Biases, Poetry, Apache Airflow, Great Expectations, GitHub Actions, Taipy, Gradio, FastAPI, Docker | GCP, Hugging Face | Google Colab, Git, Visual Studio Code | ⬜ | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -44,7 +44,7 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
-| 001 | [EmotionScope GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) | [EmotionScope App](https://huggingface.co/spaces/ancilcleetus/CV_Project_01_EmotionScope) | Emotion Classifier on [Kaggle FER-2013 (Facial Emotion Recognition) Dataset](https://www.kaggle.com/datasets/msambare/fer2013) | Python | TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, OpenCV, Matplotlib, Gradio | NA | Hugging Face | Google Colab, Git | ✅ | Version 0.1 Completed |
+| 001 | [EmotionScope GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) | [EmotionScope App](https://huggingface.co/spaces/ancilcleetus/CV_Project_01_EmotionScope) | Emotion Classifier on [Kaggle FER-2013 (Facial Emotion Recognition) Dataset](https://www.kaggle.com/datasets/msambare/fer2013) | Python | TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, OpenCV, Matplotlib, Gradio | NA | Hugging Face | Google Colab, Git, Visual Studio Code | ✅ | Version 0.1 Completed |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
