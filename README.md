@@ -44,7 +44,7 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
-| 001 | [EmotionScope GitHub Repo](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) | [EmotionScope App](https://huggingface.co/spaces/ancilcleetus/CV_Project_01_EmotionScope) | Emotion Classifier on [Kaggle FER-2013 (Facial Emotion Recognition) Dataset](https://www.kaggle.com/datasets/msambare/fer2013) | Python | TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, OpenCV, Matplotlib, Gradio | NA | Hugging Face | Google Colab, Git, Visual Studio Code | ✅ | Version 0.1 Completed |
+| 001 | [EmotionScope GitHub Repo](https://github.com/ancilcleetus/CV_Project_01_EmotionScope) | [EmotionScope App](https://huggingface.co/spaces/ancilcleetus/CV_Project_01_EmotionScope) | Emotion Classifier on [Kaggle FER-2013 (Facial Emotion Recognition) Dataset](https://www.kaggle.com/datasets/msambare/fer2013) | Python | TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, OpenCV, Matplotlib, Gradio | NA | Hugging Face | Google Colab, Git, Visual Studio Code | ✅ | Version 0.1 Completed |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
