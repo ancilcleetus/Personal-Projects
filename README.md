@@ -62,7 +62,7 @@
 
 | No | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Cloud Hosting | Development Tools | Done | Comments | 
 | -- | :----------- | :--------------- | ----------- | --------- | --------- | ----------- | ------------------------- | ----------------- | ---- | :------- |
-| 001 | [Chicago Cab Fare Predictor using Linear Regression](https://github.com/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/02-Machine-Learning-Projects/ML_Project_01_Chicago_Cab_Fare_Predictor/ML_Project_01_Chicago_Cab_Fare_Predictor.ipynb) | NA | Cab Fare Prediction on [City of Chicago Taxi Trips dataset](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) | Python | Keras, NumPy, Pandas, Plotly, Seaborn | NA | NA | Google Colab, Git | ✅ | Version 0.1 Completed |
+| 001 | [Chicago Cab Fare Predictor using Linear Regression](https://github.com/ancilcleetus/ML_Project_01_Chicago_Cab_Fare_Predictor/) | [Notebook](https://nbviewer.org/github/ancilcleetus/ML_Project_01_Chicago_Cab_Fare_Predictor/blob/main/notebooks/ML_Project_01_Chicago_Cab_Fare_Predictor.ipynb) | Cab Fare Prediction on [City of Chicago Taxi Trips dataset](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) | Python | Keras, NumPy, Pandas, Plotly, Seaborn | NA | NA | Google Colab, Git | ✅ | Version 0.1 Completed |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
