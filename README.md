@@ -10,7 +10,7 @@
 
 | No | Done | Project Repo | Live Application | Description | Languages | Libraries | MLOps Tools | Deployment | Development Tools | Comments | 
 | -- | :--- | :----------- | ---------------- | ----------- | --------- | --------- | ----------- | ---------- | ----------------- | :------- |
-| 002 | ⬜ | [ReelReveal GitHub Repo](https://github.com/ancilcleetus/ReelReveal) | 🚀 Live Application: Coming soon | SaaS platform for Sentiment and Emotion Prediction from Videos | Python | PyTorch, TypeScript, Next.js, React | NA | Docker, Railway | Claude Code, Visual Studio Code, Git | Version 0.1 In Progress |
+| 002 | ⬜ | [ReelReveal GitHub Repo](https://github.com/ancilcleetus/ReelReveal) | 🚀 Live Application: Coming soon | SaaS platform for Sentiment and Emotion Prediction from Videos | Python | PyTorch, TypeScript, Next.js, React | MLflow | Docker, Railway | Claude Code, Visual Studio Code, Git | Version 0.1 In Progress |
 | 001 | ⬜ | [VoiceFoundry GitHub Repo](https://github.com/ancilcleetus/voicefoundry) | 🚀 Live Application: Coming soon | SaaS platform for Custom Voice Generation from Text | Python | TypeScript, Next.js, React | NA | Docker, Railway | Claude Code, Visual Studio Code, Git | Version 0.1 In Progress |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
